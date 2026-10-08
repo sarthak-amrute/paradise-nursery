@@ -1,0 +1,19 @@
+.about-us-container {
+  max-width: 750px;
+  margin: 25px auto;
+  padding: 20px 28px;
+  background: rgba(255, 255, 255, 0.15);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border-radius: 12px;
+  border: 1px solid rgba(255, 255, 255, 0.25);
+  box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.2);
+}
+
+.about-us-description {
+  font-size: 1.1rem;
+  line-height: 1.7;
+  color: #f1f8f4;
+  text-align: center;
+  margin: 0;
+}
